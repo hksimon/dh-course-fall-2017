@@ -1,0 +1,6 @@
+<lg type="poem">
+	<head>Shopping</head>
+	<lg type="stanza" n="1">
+	<l n="1"> Hannah</l>
+	</lg>
+</lg>	
