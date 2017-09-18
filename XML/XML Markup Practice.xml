@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Woolf</ab> 
+            </publicationStmt>
+            <sourceDesc>
+                <ab>Woolf</ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab>The nature, and indeed the reality, of Romanization in the <placeName>east</placeName> is controversial. One
+        of the most influential accounts of Romanization in the western provinces notes that
+        'by contrast, where <name>Greek</name> was already the language of culture, of government and of
+        inter-regional trade, the <name>Romans</name> carried further the process of Hellenization ... in
+        general what was specifically <name>Latin</name> in the common civilization of the <nameempire made
+        little impact in the <placeName>east</placeName>', the exceptions being the influence of Roman law and the
+        popularity of gladiatorial games.1</ab>
+        </body>
+    </text>
+</TEI>
