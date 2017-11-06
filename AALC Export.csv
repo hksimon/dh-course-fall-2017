@@ -1,0 +1,11 @@
+Pleiades Name, Custom Name, English Name, Greek Name, Latin Name, Type, Time Period, Pleiades ID, Map Number, awmc_id, perseus_link, wikipedia_link, geometry
+Aphrodisias,,,Σταυρούπολις,,settlement,CHRL,638753,,,,,"{""type"":""Point"",""coordinates"":[28.7237794209,37.7085839222]}"
+Sardis/Hyde?,,Sardis,,Sardis,settlement,M1EANCAHHRRRTLLLPEAMREM,550867,,,,,"{""type"":""Point"",""coordinates"":[28.040286,38.488314]}"
+Hierapolis,,Hierapolis,,Hierapolis,"settlement, bath",HRL,638860,,,,,"{""type"":""Point"",""coordinates"":[29.131799,37.9175053333]}"
+Priene/‘Lince’?,,Priene,,Priene,"settlement, temple, theatre",CHHRL,599905,,,,,"{""type"":""Point"",""coordinates"":[27.2980995,37.6599361]}"
+Pax Iulia/Pax Augusta/Col. Pacensis,,Pax Iulia,,Pax Iulia,settlement,HRL,256358,,,,,"{""type"":""Point"",""coordinates"":[-7.865225,38.015604]}"
+Villa Hadriani,,Villa Hadriani,,Villa Hadriani,villa,HRL,423127,,,,,"{""type"":""Point"",""coordinates"":[12.775887,41.942344]}"
+Roma,,Rome,Ρώμη,Roma,"urban, settlement, temple",ACHRLM,423025,,,,,"{""type"":""Point"",""coordinates"":[12.4861685,41.8917375]}"
+Byzantium,,Constantinople,Κωνσταντινούπολις,Byzantium,settlement,ACHRL,520985,,,,,"{""type"":""Point"",""coordinates"":[28.9738815,41.005902]}"
+Antiochia ad Maeandrum,,Antiochia ad Maeandrum,,Antiochia ad Maeandrum,settlement,H,638748,,,,,"{""type"":""Point"",""coordinates"":[28.548284,37.873542]}"
+Athenae,,Athens,Ἀθῆναι,Athenae,"theatre, plaza, cemetery, stoa, settlement, temple",ACHRRLEMLM,579885,,,,,"{""type"":""Point"",""coordinates"":[23.7239851818,37.9727465455]}"
